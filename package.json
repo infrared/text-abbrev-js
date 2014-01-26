@@ -1,0 +1,19 @@
+{
+    "author": "Michael Kroher",
+    "name":  "text-abbrev",
+    "description": "Find explicit abbreviations from a list of words",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/infrared/text-abbrev-js.git"
+    },
+    "main": "./lib/index",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": { },
+    "keywords": [
+        "abbreviations",
+    ]
+}
+
